@@ -119,7 +119,7 @@ igwaves\_beta.mpg ([MPG](/resources/res-12-001-topics-in-fluid-dynamics-spring-2
 
 Summary ([PDF]({{< baseurl >}}/resources/mitres_12_001_essay3_sum))
 
-Complete Essay 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.7MB]({{< baseurl >}}/resources/mitres_12_001_essay3))
+Complete Essay 3 ([PDF - 2.7MB]({{< baseurl >}}/resources/mitres_12_001_essay3))
 
 
 {{< tdclose >}}
