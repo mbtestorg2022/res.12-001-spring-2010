@@ -40,7 +40,7 @@ Complete Essay 1 ([PDF - 1.5MB]({{< baseurl >}}/resources/mitres_12_001_essay1))
 
 MATLAB® file:
 
-danalysis.m ([M](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/danalysis.m))
+danalysis.m ({{% resource_link "c0f35d91-b35f-a4c2-2967-5a3c7a1bb585" "M" %}})
 
 
 {{< tdclose >}}
@@ -67,41 +67,41 @@ Complete Essay 2 ([PDF - 7.5MB]({{< baseurl >}}/resources/mitres_12_001_essay2))
 
 MATLAB® files:
 
-galook.m ([M](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/galook.m))
+galook.m ({{% resource_link "d91da728-555d-91df-6d19-15b4be937f42" "M" %}})
 
-ftransform.m ([M](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/ftransform.m))
+ftransform.m ({{% resource_link "33f9a41f-1ca4-6c50-43da-121796f2e83a" "M" %}})
 
-twowaves.m ([M](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/twowaves.m))
+twowaves.m ({{% resource_link "26409cf4-51ac-06f1-2f45-d0b7dad18a6a" "M" %}})
 
-geoadj\_1d.m ([M](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/geoadj_1d.m))
+geoadj\_1d.m ({{% resource_link "bb32b0af-2865-15b4-2ad0-4a0cf2c2310b" "M" %}})
 
-partslope.m ([M](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/partslope.m))
+partslope.m ({{% resource_link "b0794140-de34-620f-023e-a289d6aa42fc" "M" %}})
 
 Fortran file:
 
-geoadj\_2d.f ([F](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/geoadj_2d.for))
+geoadj\_2d.f ({{% resource_link "da6ee754-2c83-91e2-2006-14a3c055f31c" "F" %}})
 
 Animation files:
 
-ga2d\_eta\_lat0.mpg ([MPG](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/ga2d_eta_lat0.mpg))
+ga2d\_eta\_lat0.mpg ({{% resource_link "720d2543-26fe-d7f6-0dd8-a0207fc7f669" "MPG" %}})
 
-ga2d\_eta\_lat10.mpg ([MPG](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/ga2d_eta_lat10.mpg))
+ga2d\_eta\_lat10.mpg ({{% resource_link "ddfd870c-a28a-68b4-8751-ef10bb38e552" "MPG" %}})
 
-ga2d\_eta\_lat20.mpg ([MPG - 1.2MB](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/ga2d_eta_lat20.mpg))
+ga2d\_eta\_lat20.mpg ({{% resource_link "2ca73a81-2ce4-7cc4-a76d-75055d1f86a0" "MPG - 1.2MB" %}})
 
-ga2d\_eta\_lat40.mpg ([MPG](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/ga2d_eta_lat40.mpg))
+ga2d\_eta\_lat40.mpg ({{% resource_link "a851ca52-6fa1-7a00-add4-91893b4b75a7" "MPG" %}})
 
-ga2d\_eta\_lat60.mpg ([MPG](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/ga2d_eta_lat60.mpg))
+ga2d\_eta\_lat60.mpg ({{% resource_link "5170d324-f045-78ff-74dc-8b503b3088af" "MPG" %}})
 
-ga2d\_u\_lat10.mpg ([MPG](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/ga2d_u_lat10.mpg))
+ga2d\_u\_lat10.mpg ({{% resource_link "3453f448-2c8c-ae6e-f6bf-ba0c323d441f" "MPG" %}})
 
-ga2d\_u\_lat20.mpg ([MPG](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/ga2d_u_lat20.mpg))
+ga2d\_u\_lat20.mpg ({{% resource_link "25f0c1e8-d0dd-3206-5c7a-3c3989b62b37" "MPG" %}})
 
-ga2d\_u\_lat40.mpg ([MPG](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/ga2d_u_lat40.mpg))
+ga2d\_u\_lat40.mpg ({{% resource_link "794f0692-73ae-fcb4-79ed-cb2aa6b25e1d" "MPG" %}})
 
-ga2d\_u\_lat60.mpg ([MPG](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/ga2d_eta_lat60.mpg))
+ga2d\_u\_lat60.mpg ({{% resource_link "5170d324-f045-78ff-74dc-8b503b3088af" "MPG" %}})
 
-igwaves\_beta.mpg ([MPG](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/igwaves_beta.mpg))
+igwaves\_beta.mpg ({{% resource_link "ec6aefcc-204d-b3cd-e2e4-3b29215eccc3" "MPG" %}})
 
 
 {{< tdclose >}}
@@ -128,17 +128,17 @@ Complete Essay 3 ([PDF - 2.7MB]({{< baseurl >}}/resources/mitres_12_001_essay3))
 
 MATLAB® files:
 
-gwavemovie.m ([M](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/gwavemovie.m))
+gwavemovie.m ({{% resource_link "cd1214c0-554a-d800-58ab-326f63eadf0b" "M" %}})
 
-basinlook.m ([M](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/basinlook.m))
+basinlook.m ({{% resource_link "c8f458bb-20bf-1bc4-6aae-9206685100ba" "M" %}})
 
-basintracks.m ([M](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/basintracks.m))
+basintracks.m ({{% resource_link "f2b8c823-7b1f-b290-fbc6-2bc1bd1c8bf7" "M" %}})
 
 Fortran files:
 
-basin.f ([F](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/basin.for))
+basin.f ({{% resource_link "c825b321-cbba-f435-97c8-74afa65b0a25" "F" %}})
 
-basinsubs.f ([F](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/online-publication/basinsubs.for))
+basinsubs.f ({{% resource_link "e2402871-b7cb-5030-3a6e-0ac8c3e4aef5" "F" %}})
 
 
 {{< tdclose >}}
